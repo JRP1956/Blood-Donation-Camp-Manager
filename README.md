@@ -141,10 +141,6 @@ java -cp bin ui.MainFrame
 - Fork the repo, create a feature branch, and open a PR.
 - Keep code readable, follow existing naming and formatting conventions.
 
-## License
-- MIT License (or your preferred license).
 
 ## Acknowledgments
 - Built with Java Swing. Designed for quick, local, database-free management of donation camps.
-
-You can paste this directly into your README.md.
