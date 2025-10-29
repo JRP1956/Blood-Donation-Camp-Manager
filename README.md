@@ -3,6 +3,8 @@
 ## Overview
 Blood Donation Camp Manager is a Java Swing desktop application that helps organizers manage blood donation drives. It supports donor registration, searching by multiple criteria, scheduling donations, tracking statuses, and viewing summary reports. Data is stored locally in CSV files, so no database setup is required.
 
+<img width="1440" height="900" alt="Screenshot 2025-10-28 at 11 56 01 AM" src="https://github.com/user-attachments/assets/5560f095-7cbb-4b46-a463-fda98bcb356e" />
+
 ## Features
 - Donor registration with automatic ID generation (D001, D002, …) and age eligibility checks (18–65)
 - Search donors by blood group, location, or name; show-all results
